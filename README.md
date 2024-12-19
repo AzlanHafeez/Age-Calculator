@@ -51,7 +51,7 @@ This project is part of the **CodeAlpha** task.
 ---
 
 ## 📸 Screenshots
-![Age Calculator UI](ScreenShot.png)
+![Age Calculator UI](ScreenShot.jpg)
 
 *Add screenshots of the interface here.*
 
